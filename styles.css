@@ -55,6 +55,7 @@ body {overflow: auto;
     font-weight: 900;
     text-align: left;
     margin-top: -25px;
+    margin-left: 10px;
     color: #443b53;
     text-transform: lowercase;
     text-shadow: 1px 0 #a996c7, -1px 0 #a996c7, 0 1px #a996c7, 0 -1px #a996c7;
@@ -106,6 +107,7 @@ body {overflow: auto;
 
 .apellido {
     margin-top: -100px;
+    margin-left: 10px;
 }
 
 .lin2-tit {
