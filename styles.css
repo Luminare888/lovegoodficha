@@ -215,7 +215,7 @@ body {overflow: auto;
     border: 1px solid #a996c7;
     box-sizing: border-box;
     padding: 30px;
-    overflow: auto;
+    overflow: hidden;
     padding-top: 10px;
     margin-left: -90px;
     color: #bcb5c8;
