@@ -18,7 +18,7 @@ body {overflow: auto;
     src: url(Stellar\ Moon\ Regular.ttf);
 }
 
-.fondo *::-webkit-scrollbar {width: 6px}
+.fondo *::-webkit-scrollbar {width: 4px}
 
 .fondo *::-webkit-scrollbar-track {background-color: #000}
 
