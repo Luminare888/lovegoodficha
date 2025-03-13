@@ -31,7 +31,7 @@ body {overflow: auto;
     width: 700px;
     background: url(https://i.imgur.com/zyC7Rei.png);
     background-size: cover;
-    height: 1700px;
+    height: 1670px;
     border: 1px solid #403a49;
     color: var(--text);
     padding: 60px;
@@ -43,8 +43,8 @@ body {overflow: auto;
     font-family: serif;
     line-height: 1.5;
     font-family: 'Asul';
-    padding-top: 0px;
-    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
     background-repeat: repeat;
 }
 
