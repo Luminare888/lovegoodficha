@@ -257,7 +257,7 @@ body {overflow: auto;
     height: 405px;
     box-sizing: border-box;
     padding: 30px;
-    overflow: auto;
+    overflow: hidden;
     border-top-right-radius: 40px;
     border-bottom-left-radius: 40px;
     padding-top: 10px;
